@@ -1,17 +1,20 @@
 {
-	{
-		"display_name" : "Satsang Books",
-		"version" : "0.0.2",
-		"url" : "https://github.com/impateljay/swaminarayan/blob/master/Satsang%20Books_v0.0.2_apkpure.com.apk",
-	},
-	{
-		"display_name" : "Swaminarayan Kundaldham Radio",
-		"version" : "2.0.0",
-		"url" : "https://github.com/impateljay/swaminarayan/blob/master/Swaminarayan%20Kundaldham%20Radio_v2.0.0_apkpure.com.apk",
-	},
-	{
-		"display_name" : "Vachanamrut",
-		"version" : "0.0.6",
-		"url" : "https://github.com/impateljay/swaminarayan/blob/master/Vachanamrut_v0.0.6_apkpure.com.apk",
-	},
+	"data":
+	[
+        {
+			"display_name" : "Satsang Books",
+			"version" : "0.0.2",
+			"url" : "https://github.com/impateljay/swaminarayan/blob/master/Satsang%20Books_v0.0.2_apkpure.com.apk",
+		},
+		{
+			"display_name" : "Swaminarayan Kundaldham Radio",
+			"version" : "2.0.0",
+			"url" : "https://github.com/impateljay/swaminarayan/blob/master/Swaminarayan%20Kundaldham%20Radio_v2.0.0_apkpure.com.apk",
+		},
+		{
+			"display_name" : "Vachanamrut",
+			"version" : "0.0.6",
+			"url" : "https://github.com/impateljay/swaminarayan/blob/master/Vachanamrut_v0.0.6_apkpure.com.apk",
+		},
+	]
 }
